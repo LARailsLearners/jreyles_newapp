@@ -1,2 +1,3 @@
-# jreyles_newapp
+# Sandbox
+
 Repo for Rails.
